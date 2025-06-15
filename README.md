@@ -1,5 +1,7 @@
 Merhaba bu projeyi 3 kişi birlikte yaptık.
 
-Eren
-Samet
-Şeyma
+Grup Üyelerimiz:
+
+Eren Şeremet
+Abdulsamet Çakır
+Şeyma Nur Altan
